@@ -11,4 +11,4 @@ Week 1 Day 4 - Project : Diagrams ER of 3 databases
 
 ## Gossip
 
-<img src=/Diagram_Gossip.png width="600">
+<img src=/Diagram_Gossip.png width="900">
